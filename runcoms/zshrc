@@ -25,3 +25,6 @@ fi
 # Customize to your needs...
 
 unalias cp mv scp rm
+
+export EDITOR=vim
+export VISUAL=vim
